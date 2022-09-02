@@ -13,23 +13,17 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ex
-          labore a voluptatibus, deserunt recusandae repellat obcaecati cum hic
-          nesciunt sequi fugiat quasi expedita fugit necessitatibus quidem quia
-          error quod pariatur suscipit, reiciendis fuga ea temporibus. Veritatis
-          accusantium esse ea laudantium, illum quisquam ipsum possimus velit
-          placeat! Consectetur, cupiditate dolore.
+          Born and brought up in Bangalore, an Engineer graduate specialized in
+          electronics and communication but ended up in IT. Love technologies
+          and innovations, now fallen for web development.
         </p>
 
         <br />
 
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
-          distinctio aspernatur itaque eligendi quas maxime tempore voluptate
-          dolor a pariatur provident aliquam explicabo sapiente praesentium
-          facere doloribus nobis magnam laudantium deleniti, similique rerum
-          vitae? Odio veniam magnam magni voluptas eveniet deleniti aspernatur
-          culpa at, praesentium dicta laboriosam velit nostrum! Explicabo?
+        <p className="text-xl italic">
+          "All of us do not have equal talent. But, all of us have an equal
+          opportunity to develop our talents."
+          <br />- Dr APJ Abdul Kalam
         </p>
       </div>
     </div>
