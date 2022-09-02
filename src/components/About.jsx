@@ -13,9 +13,9 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Born and brought up in Bangalore, an Engineer graduate specialized in
-          electronics and communication but ended up in IT. Love technologies
-          and innovations, now fallen for web development.
+          Born and brought up in Bangalore, an Engineer graduate. Love
+          technologies and innovations, now fallen for web development. Looking
+          forward to build some amazing applications.
         </p>
 
         <br />
