@@ -2,23 +2,30 @@ import React from 'react';
 import FeedbackUI from '../assets/portfolio/FeedbackUI.PNG';
 import GithubFinder from '../assets/portfolio/GithubFinder.PNG';
 import HomeMarketPlace from '../assets/portfolio/HomeMarketPlace.PNG';
+import SupportDesk from '../assets/portfolio/SupportDesk.PNG';
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      src: SupportDesk,
+      demo: 'https://nidsupportdesk.herokuapp.com/',
+      code: 'https://github.com/NidishM/support-desk-app',
+    },
+    {
+      id: 2,
       src: HomeMarketPlace,
       demo: 'https://home-marketplace-six.vercel.app/',
       code: 'https://github.com/NidishM/home-marketplace',
     },
     {
-      id: 2,
+      id: 3,
       src: GithubFinder,
       demo: 'https://github-finder-app-nidishm.vercel.app/',
       code: 'https://github.com/NidishM/github-finder-app',
     },
     {
-      id: 3,
+      id: 4,
       src: FeedbackUI,
       demo: 'https://feedback-app-murex-two.vercel.app/',
       code: 'https://github.com/NidishM/Feedback-App',
